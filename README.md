@@ -17,5 +17,5 @@ From the analysis done on the different stocks in 2018, there was a major declin
 
 
 ### SUMMARY
-- Refactoring Helps Programming Faster but it's risky when the application is big
+- Refactoring Helps Programming Faster but it's risky when the application is big.
 - VBA can trap and handle errors but its errors are not well explanatory to direct for corrections
